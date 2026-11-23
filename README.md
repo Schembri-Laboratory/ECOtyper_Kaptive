@@ -10,7 +10,7 @@ A database for accurate and comprehensive O-typing of _E. coli_ using [Kaptive](
 Run the following command to install the database
 
 ```bash
-kaptive db add EC_Oag Schembri-Laboratory GEOD_Kaptive
+kaptive db add EC_Oag Schembri-Laboratory ECOtyper_Kaptive
 ```
 Example Usage
 ```bash
