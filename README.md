@@ -2,7 +2,7 @@
     <img align="right" src="https://github.com/klebgenomics/Kaptive/blob/master/docs/assets/logo.png?raw=true" alt="Kaptive" width="200">
 </a>
 
-# Full Locus O-typing of _Escherichia coli_  (EC-Otype)
+# Full Locus O-typing of _Escherichia coli_  (EC-Otyper)
 A database for accurate and comprehensive O-typing of _E. coli_ using [Kaptive](https://github.com/klebgenomics/Kaptive/).
 
 
