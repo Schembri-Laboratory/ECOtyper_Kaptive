@@ -27,7 +27,7 @@ The putative O-antigen loci found by Morris et al. (2026) have been assigned OL 
 For a complete list see table S4 in the following publication.
 ### High-Similarity Groups
 35 O-antigens belong to high-similarity groups (Gp1-16), where members of the group share >95% nucleotide identity [2].
-All but Gp11 are annotated in GEOD. Kaptive cannot reliably differentiate O-antigens in the same group, hence caution is advised in interpreting results for these O-types.
+All but Gp11 are annotated in EC-Otyper. Kaptive cannot reliably differentiate O-antigens in the same group, hence caution is advised in interpreting results for these O-types.
 
 |     Group    |     O-antigens                  |
 |--------------|---------------------------------|
